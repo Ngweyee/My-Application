@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="md_padding_top">5dp</dimen>
+    <dimen name="md_padding_left">3dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="main_padding">8dp</dimen>
+    <dimen name="main_second_margin">16dp</dimen>
+    <dimen name="title_font_size">20sp</dimen>
+    <dimen name="feed_item_padding_top_bottom">10dp</dimen>
+</resources>
